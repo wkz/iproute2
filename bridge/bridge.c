@@ -58,6 +58,7 @@ static const struct cmd {
 	{ "fdb",	do_fdb },
 	{ "mdb",	do_mdb },
 	{ "vlan",	do_vlan },
+	{ "mst",	do_mst },
 	{ "monitor",	do_monitor },
 	{ "help",	do_help },
 	{ 0 }
